@@ -14,7 +14,7 @@ A modern, intelligent waste reporting and recycling coordination system built wi
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/Uma-Aditya/EcoTrack-Responsibility-in-Every-Report-Change-in-Every-Action)
+   git clone (https://github.com/Uma-Aditya/EcoTrack-Responsibility-in-Every-Report-Change-in-Every-Action)
    
    ```
 
