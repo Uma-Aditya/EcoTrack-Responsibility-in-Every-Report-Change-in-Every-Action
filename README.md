@@ -56,6 +56,9 @@ npm run lint
 npm run typecheck
 ```
 
+## Admin Pass : Email:admin@ecotrack.city
+## Password:admin123
+
 ## ✨ Key Features
 
 ### 🏠 **Citizen Portal**
