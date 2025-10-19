@@ -2,8 +2,6 @@
 
 A modern, intelligent waste reporting and recycling coordination system built with React, TypeScript, and Tailwind CSS. EcoTrack helps cities and communities manage waste more efficiently through citizen reporting and automated pickup scheduling.
 
-![EcoTrack Banner](https://via.placeholder.com/800x200/22c55e/ffffff?text=EcoTrack+-+Smart+Waste+Management)
-
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -16,7 +14,7 @@ A modern, intelligent waste reporting and recycling coordination system built wi
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/Uma-Aditya/EcoTrack-Responsibility-in-Every-Report-Change-in-Every-Action)
    
    ```
 
@@ -227,4 +225,4 @@ For support and questions:
 
 ---
 
-**EcoTrack** - Making waste management smarter, one report at a time. 🌱♻️
+**EcoTrack** - Making waste management smarter, one report at a time.
