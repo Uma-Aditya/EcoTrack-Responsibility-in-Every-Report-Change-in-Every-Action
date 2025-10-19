@@ -1,3 +1,7 @@
+### Problem Statement
+
+Waste management remains one of the most pressing challenges for cities and communities worldwide. Traditional waste collection methods often suffer from inefficiencies, lack of real-time tracking, and limited citizen engagement. This results in delayed responses to overflowing bins, missed pickups, and unsustainable waste management practices.Furthermore, municipalities face challenges in optimizing waste collection routes and schedules, leading to unnecessary fuel consumption and increased carbon footprints. There is also limited transparency for citizens, making it hard for them to track the status of their reported issues or the scheduling of waste pickups.
+
 # 🌱 EcoTrack - Smart Waste Management System
 
 A modern, intelligent waste reporting and recycling coordination system built with React, TypeScript, and Tailwind CSS. EcoTrack helps cities and communities manage waste more efficiently through citizen reporting and automated pickup scheduling.
